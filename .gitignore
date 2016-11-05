@@ -1,0 +1,5 @@
+.classpath
+.settings/
+target/*
+!target/cf-sample_mysql1-1.0.0-SNAPSHOT.jar
+

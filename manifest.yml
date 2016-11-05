@@ -1,0 +1,8 @@
+---
+applications: 
+- name: cf-sample_mysql1
+  mem: 256M
+  random-route: true
+  path: target/cf-sample_mysql1-1.0.0-SNAPSHOT.jar
+#  services: 
+#  - mysql
